@@ -1,8 +1,8 @@
 # Awesome Data Companies [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-List of 600+ geospatial companies & interactive map. For finding geospatial jobs, customers and understanding the geospatial industry! 
+List of 20+ data companies & interactive map. For finding data jobs, customers and understanding the industry! 
 
-🛰️ Earth Observation 🌎 GIS / Spatial 🌿 Digital Farming ☁️️ Climate / Weather 🗺️ Webmap / Cartography 📡️ Satellite Operator ✈️ UAV / Aerial
+🌎 Data Orchestration
 
 
 <p align="center">
@@ -19,10 +19,8 @@ Explore the list below, or as an <a href="https://www.google.com/maps/d/u/0/edit
 
 <br>
 
-- Recent additions indicated with ❗
-- Office size (S < 20, M 20-100, L > 100) is an estimate (LinkendIn, industry knowledge, job ads etc.)
-- Relevant (B)ranch offices (non-sales office with sufficient amount of geo-related jobs) are listed separately.
-- Focus on commercial companies, currently no research institues included.
+- Office size (S < 20, M 20-100, L > 100) is an estimate 
+- Focus on commercial companies, no OS foundations or research labs included
 
 Thank you to the many contributors! To contribute please see the 
 [contribution guide](https://github.com/chrieke/awesome-geospatial-companies/blob/master/CONTRIBUTING.md). 
