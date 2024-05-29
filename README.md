@@ -1,8 +1,6 @@
-# Awesome Data Companies [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Tech Companies [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-List of 20+ data companies & interactive map. For finding data jobs, customers and understanding the industry! 
-
-🌎 Data Orchestration
+List of 20+ tech companies & interactive map. For finding jobs, customers and understanding the industry! 
 
 
 <p align="center">
